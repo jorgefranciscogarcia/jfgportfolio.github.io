@@ -1,1 +1,1 @@
-https://jorgefranciscogarcia.github.io/jfgportfolio.github.io/
+https://jorgefranciscogarcia.netlify.app/
